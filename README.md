@@ -166,7 +166,7 @@ and generative AI.
 Most of my production engineering work is performed through a separate
 company-managed GitHub account across private enterprise repositories.
 
-- 🏢 **339 contributions in the last year** on my professional GitHub account
+- 🏢 **1339 contributions in the last year** on my professional GitHub account
 - 🔒 Primarily private enterprise repositories
 - 📡 Telecom, analytics, S&D, SFA and enterprise platform development
 - 🏗️ Backend, frontend, data-platform and architecture contributions
