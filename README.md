@@ -161,9 +161,24 @@ and generative AI.
   />
 </p>
 
-Most of my professional engineering work has been across private enterprise
-repositories and production systems. This profile contains selected personal,
-experimental and open-source work.
+## 💼 Professional GitHub Activity
+
+Most of my production engineering work is performed through a separate
+company-managed GitHub account across private enterprise repositories.
+
+- 🏢 **339 contributions in the last year** on my professional GitHub account
+- 🔒 Primarily private enterprise repositories
+- 📡 Telecom, analytics, S&D, SFA and enterprise platform development
+- 🏗️ Backend, frontend, data-platform and architecture contributions
+
+> Private repository names, source code and internal implementation details
+> are intentionally not exposed.
+
+> ### 🔐 `$ professional-work --visibility=private`
+>
+> Most of my day-to-day engineering happens across **private enterprise repositories and production systems**.
+>
+> This profile showcases selected **personal projects, experiments, open-source work, and technical explorations**.
 
 <!-- <p align="center">
   <img
