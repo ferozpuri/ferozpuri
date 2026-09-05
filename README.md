@@ -144,12 +144,12 @@ and generative AI.
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=ferozpuri&show_icons=true&hide_border=true"
+    src="./profile/stats.svg"
     alt="Suleman's GitHub Stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferozpuri&layout=compact&hide_border=true"
+    src="./profile/top-langs.svg"
     alt="Most Used Languages"
   />
 </p>
