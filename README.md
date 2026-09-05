@@ -15,7 +15,7 @@ Architecting AI-powered SaaS platforms, enterprise systems and cloud-native solu
 
 <!-- ![Muhammad Suleman Ismail - Software Architect](./assets/profile-banner.png) -->
 
-![Muhammad Suleman Ismail - Software Architect, AI Engineer & Full-Stack Engineer](./assets/profile-banner.png)
+![Muhammad Suleman Ismail - Software Architect, AI Engineer & Full-Stack Engineer](https://raw.githubusercontent.com/ferozpuri/ferozpuri/refs/heads/main/assets/profile-banner.png)
 
 ## 👨‍💻 About Me
 
