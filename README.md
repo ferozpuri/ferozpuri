@@ -141,10 +141,10 @@ and generative AI.
 
 ## 📊 GitHub
 
-<!-- <p align="center">
+<p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=ferozpuri&show_icons=true&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=ferozpuri&show_icons=true&hide_border=true"
     alt="Suleman's GitHub Stats"
   />
   <img
@@ -159,18 +159,18 @@ and generative AI.
     src="https://streak-stats.demolab.com?user=ferozpuri&hide_border=true"
     alt="GitHub Streak"
   />
-</p> -->
+</p>
 
 Most of my professional engineering work has been across private enterprise
 repositories and production systems. This profile contains selected personal,
 experimental and open-source work.
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=ferozpuri&hide_border=true"
     alt="GitHub Contribution Activity"
   />
-</p>
+</p> -->
 
 ---
 
