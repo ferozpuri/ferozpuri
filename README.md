@@ -13,7 +13,9 @@ Architecting AI-powered SaaS platforms, enterprise systems and cloud-native solu
 
 ---
 
-![Muhammad Suleman Ismail - Software Architect](./assets/profile-banner.png)
+<!-- ![Muhammad Suleman Ismail - Software Architect](./assets/profile-banner.png) -->
+
+![Muhammad Suleman Ismail - Software Architect, AI Engineer & Full-Stack Engineer](./assets/profile-banner.png)
 
 ## 👨‍💻 About Me
 
@@ -106,26 +108,32 @@ observability and production optimization.
 ## 🚀 Selected Work
 
 ### 🧠 myTessera.ai — AI-Powered Insurance SaaS
+
 Multi-tenant P&C insurance platform combining **Python, Flask, Vue 3,
 LLMs, document extraction, structured data processing and agentic AI workflows**.
 
 ### 📡 Seamless / Smart S&D
+
 Enterprise telecom sales and distribution platforms supporting large-scale
 field-force, analytics and operational workflows.
 
 ### 📊 Riaktr Analytics & Smart Capex
+
 Telecom analytics, geospatial and data-platform solutions involving
 **Spark/PySpark, Scala, Iceberg, PostgreSQL/PostGIS, MinIO and Prefect**.
 
 ### 🏢 ERS & Unified Portal
+
 Enterprise platforms built around modern backend services and
 micro-frontend architecture.
 
 ### 💼 Rozee.pk & Mihnati.com
+
 High-volume recruitment platforms using **PHP, Apache Solr, AngularJS,
 JavaScript and REST/web services**.
 
 ### 📱 Reel Revive
+
 AI-powered content application integrating modern mobile/backend services
 and generative AI.
 
@@ -133,17 +141,35 @@ and generative AI.
 
 ## 📊 GitHub
 
-<!-- Replace USERNAME with your GitHub username -->
-
-<p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true" />
+<!-- <p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=ferozpuri&show_icons=true&hide_border=true&rank_icon=github"
+    alt="Suleman's GitHub Stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferozpuri&layout=compact&hide_border=true"
+    alt="Most Used Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=ferozpuri&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p> -->
+
+Most of my professional engineering work has been across private enterprise
+repositories and production systems. This profile contains selected personal,
+experimental and open-source work.
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=ferozpuri&hide_border=true"
+    alt="GitHub Contribution Activity"
+  />
 </p>
 
 ---
@@ -176,7 +202,7 @@ Full-Stack Development · Data Platforms · Cloud & DevOps**
 
 ### Design · Build · Automate · Scale
 
-*Building scalable AI solutions, high-performance enterprise platforms
-and secure cloud applications.*
+_Building scalable AI solutions, high-performance enterprise platforms
+and secure cloud applications._
 
 </div>
